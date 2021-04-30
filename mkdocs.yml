@@ -1,0 +1,8 @@
+site_name: Azure Documentation
+
+nav:
+  - Home: index.md
+  - Aboud: about.md
+  - Azure: teste.md
+  
+theme: readthedocs
